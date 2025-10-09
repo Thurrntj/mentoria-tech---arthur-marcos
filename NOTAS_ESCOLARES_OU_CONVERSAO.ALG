@@ -61,3 +61,7 @@ Inicio
       kel <- cel + 273.15
       escreval("Temperatura em Fahrenheit: ", fah:0:2)
       escreval("Temperatura em Kelvin: ", kel:0:2)
+      outrocaso
+      escreva("escolha uma opçao valida.")
+      fimescolha
+      fimalgoritmo
